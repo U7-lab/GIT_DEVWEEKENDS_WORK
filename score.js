@@ -1,1 +1,2 @@
+"score = 'good'" 
 "score = 'bad'" 
